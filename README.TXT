@@ -3,3 +3,4 @@ Git is free software!
 Testing for Git.
 Testing VIM again.
 Testing how to roll back.
+Git has a mutable index called stage.
