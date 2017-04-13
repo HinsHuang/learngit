@@ -5,3 +5,4 @@ Testing VIM again.
 Testing how to roll back.
 Git has a mutable index called stage.
 Testing how diff works.
+Git tracts changes.
