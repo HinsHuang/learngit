@@ -6,3 +6,4 @@ Testing how to roll back.
 Git has a mutable index called stage.
 Testing how diff works.
 Git tracts changes of files.
+Creating a new branch is quick.
