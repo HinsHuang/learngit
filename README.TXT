@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 Testing how diff works.
 Git tracts changes of files.
 Creating a new branch is quick.
+Creating a new brance is quick AND simple.
