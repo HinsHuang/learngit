@@ -11,3 +11,4 @@ Creating a new brance is quick AND simple.
 Testing how to control conflict and fix it.
 Testing disable fast forward during merge branch.
 Fixed issue-101.
+Testing something ...
