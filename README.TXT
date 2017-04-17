@@ -12,4 +12,4 @@ Testing how to control conflict and fix it.
 Testing disable fast forward during merge branch.
 Fixed issue-101.
 Fixed issue-102.
-Testing something ...
+Testing something on stash.
