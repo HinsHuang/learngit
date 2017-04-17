@@ -10,3 +10,4 @@ Creating a new branch is quick.
 Creating a new brance is quick AND simple.
 Testing how to control conflict and fix it.
 Testing disable fast forward during merge branch.
+Testing something ...
