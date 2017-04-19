@@ -13,3 +13,4 @@ Testing disable fast forward during merge branch.
 Fixed issue-101.
 Fixed issue-102.
 Testing something on stash.
+Testing git --global color.ui true
